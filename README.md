@@ -1,3 +1,12 @@
+<ul>
+  <li>NestJS version: 11.0.4
+  </li>
+  <li>
+    NodeJS version: 22.7.0
+  </li>
+</ul>
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
